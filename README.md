@@ -4,6 +4,11 @@ Questo repository ha lo scopo di creare una base di conoscenza libera, condivisa
 
 E' indirizzato ad un pubblico di **ragazze e ragazzi** frequentanti **Istituti di Istruzione Secondaria Superiore**
 
+# Server Discord
+Link d'invito: https://discord.gg/m3BapXJM
+
+Il server Discord verrà utilizzato per le comunicazioni tra CGM, professori e studenti. Può essere utilizzato in qualsiasi momento, nel rispetto delle regole elencate sul server stesso nel canale #rules
+
 # Contenuto e Modalità di contribuzione
 
 Il repository contiene esercizi privi di svolgimento. I contenuti sono catalogati e suddivisi per cartelle, come indicato nella [Tabella dei contenuti](#toc)
