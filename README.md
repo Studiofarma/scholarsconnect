@@ -5,7 +5,7 @@ Questo repository ha lo scopo di creare una base di conoscenza libera, condivisa
 E' indirizzato ad un pubblico di **ragazze e ragazzi** frequentanti **Istituti di Istruzione Secondaria Superiore**
 
 # Server Discord
-Link d'invito: https://discord.gg/m3BapXJM
+Link d'invito: https://discord.gg/hS7mWC55Qe
 
 Il server Discord verrà utilizzato per le comunicazioni tra CGM, professori e studenti. Può essere utilizzato in qualsiasi momento, nel rispetto delle regole elencate sul server stesso nel canale [#rules](https://discord.gg/RBT2CASV)
 
